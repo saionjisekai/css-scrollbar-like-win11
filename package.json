@@ -1,0 +1,19 @@
+{
+  "name": "css-scrollbar-like-win11",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1",
+    "vite": "^4.3.2"
+  },
+  "main": "index.js",
+  "author": "sekai",
+  "license": "MIT"
+}
